@@ -1,4 +1,4 @@
-### Hi there 👋
+I've been using Git for a long time and I'm finally diving head first into Github. I have a long history primarily in .Net and Azure development and I'm looking to expand my horizons.
 
 <!--
 **bouty/bouty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
